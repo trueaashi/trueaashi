@@ -19,8 +19,9 @@
      <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=trueaashi&theme=jolly&show_icons=true"/>
     <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=trueaashi&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
+
 #
 
 
 
-![](https://github.com/...../...../blob/main/footer.png)
+![](https://github.com/trueaashi/trueaashi/blob/main/footer.png)
