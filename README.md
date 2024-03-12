@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Myself Aashi Srivastava</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 
 - 🔭 I’m currently Studying **CSE Specialization in Cloud & Automation**
 
-- 🌱 Currently focusing on **Front End Developer**
+- 🌱 Currently focusing on **Web Developer**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Java**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=python,cpp,bootstrap,html,css,js,java" ></p>
