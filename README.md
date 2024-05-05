@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, Myself Aashi Srivastava</h1>
-<h3 align="center">Web Developement</h3>
+<h3 align="center">Web Developer</h3>
 
 
 - 🔭 I’m currently Studying **CSE Specialization in Cloud Computing & Automation**
 
-- 🌱 Currently focusing on **Web Developer**
+- 🌱 Currently focusing on **Web Development**
 
 - 💬 Ask me about **Java**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=python,cpp,bootstrap,html,css,js,java,nodejs,expressjs,mongoDB" ></p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,bootstrap,html,css,js,nodejs,expressjs,mongodb,reactjs,figma" ></p>
 <br>
 
 <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trueaashi&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
