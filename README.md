@@ -9,10 +9,12 @@
 - 💬 Ask me about **Java, AWS, DSA**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,aws,figma,sql,html,css,bootstrap,tailwind,chakra,js,react,nodejs,expressjs,mongodb,python,cpp" ></p>
+<img src="https://skillicons.dev/icons?i=java,aws,figma,html,css,bootstrap,tailwind,js,react,nodejs,expressjs,mongodb,python,cpp" ></p>
 <br>
 
-<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trueaashi&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
+<p>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trueaashi&theme=github" alt="Graph" />
+</p>
 
 <br/>
 <div align='center' width="5rem">
