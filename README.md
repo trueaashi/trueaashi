@@ -9,7 +9,7 @@
 - 💬 Ask me about **Java**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,bootstrap,html,css,js,nodejs,expressjs,mongodb,reactJs,figma,AWS" ></p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,bootstrap,html,css,js,nodejs,expressjs,mongodb,react,figma,aws" ></p>
 <br>
 
 <p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=trueaashi&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
